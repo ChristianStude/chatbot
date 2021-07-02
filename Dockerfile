@@ -18,7 +18,6 @@ RUN python -m pip install --upgrade pip; \
 
 WORKDIR /app
 COPY . /app
-RUN mv intents.json /app/v3
 
 # Benutzerkonto -> Sicherheit (kein root)
 RUN useradd appuser && chown -R appuser /app
