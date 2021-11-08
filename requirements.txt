@@ -22,7 +22,7 @@ Keras-Preprocessing==1.1.2
 MarkupSafe==2.0.1
 mccabe==0.6.1
 mkl==2021.2.0
-nltk==3.6.2
+nltk==3.6.4
 numpy==1.19.5
 oauthlib==3.1.1
 opt-einsum==3.3.0
